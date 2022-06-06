@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Stampfeet](http://www.stampfeet.com/)
 - 🌱 I’m currently learning more about Azure services
-- 👯 I’m looking to collaborate on MERN stack projects
+- 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with data preprocessing in unbalanced datasets
 - 💬 Ask me about Frontend stuff
 - 📫 How to reach me: [@rcnavarrop](https://www.linkedin.com/in/rcnavarrop/)
