@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working in [Ontario Ministry of Transportation](https://www.ontario.ca/page/ministry-transportation)
-- 🌱 I’m currently learning more about Azure services
+- 🌱 I’m currently learning more about unit tests
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with data preprocessing in unbalanced datasets
 - 💬 Ask me about Frontend stuff
