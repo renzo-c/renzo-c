@@ -1,4 +1,4 @@
-## Hola, I'm [Renzo Navarro](https://rcnp-portfolio.herokuapp.com/) 👋
+## Hola, I'm [Renzo Navarro](https://renzo-portfolio.netlify.app/) 👋
 
 <!--
 **renzo-c/renzo-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
