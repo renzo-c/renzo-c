@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working in [BlackBerry](https://www.blackberry.com/)
-- 🌱 I’m currently learning more about unit tests
+- 🌱 I’m currently learning more about NLP
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with data preprocessing in unbalanced datasets
 - 💬 Ask me about Frontend stuff
